@@ -1,0 +1,11 @@
+# Generative artificial intelligence (AI)
+
+What is a generative AI?
+
+## Large Language Models
+
+## Retrieval Augmented Generation
+
+It's a machine learning approach that combines the strengths of information retrieval and text generation. In RAG, a model retrieves relevant documents or data from a database and then uses that information to generate more accurate and contextually relevant responses or content. This method is particularly useful for tasks that require up-to-date information or specific knowledge that may not be contained within the model's pre-trained data.
+
+## Agentic AI
